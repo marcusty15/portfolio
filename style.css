@@ -239,7 +239,9 @@ form {
 
 @media (min-width: 355px) and (max-width: 1000px) {
   .card-img-top {
-    display: none;
+    display: noe;
+    width: 300px;
+    height: 200px;
   }
   .presentacion{
     margin-top: 30px;
